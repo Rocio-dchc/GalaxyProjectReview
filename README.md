@@ -18,7 +18,12 @@ What could be better:
 
 - I will include some short video tutorials because for some users that format could be more friendly.
 
-- Provide links to the account login or register (register is not working properly in the instructions in Chrome browser (but works well in Safary)
+
+https://user-images.githubusercontent.com/92441097/137164791-9ee3b107-0cbd-486d-96b4-a3a4516a13a9.mp4
+
+
+
+- Provide links to the account login or register (register is not working properly in the instructions in Chrome browser but works well in Safary)
 
 Any way I love the project and I will happily work to make it more accesible to different groups of people!
 
